@@ -2,7 +2,7 @@
 # 抖音批量下载器
 <img width="1182" height="812" alt="bb487f2a-a851-4e9d-a5a3-dc219b692614" src="https://github.com/user-attachments/assets/c6c6289e-ded5-4c6b-b001-3c598a7fce6a" />
 一个面向 Windows 的桌面工具，用于批量采集抖音账号主页作品，并将视频下载为本地 MP4 文件。项目使用 Python、PySide6 和 QtWebEngine 构建，支持登录态持久化、批量采集、最高画质下载、暂停与断点续传，以及音视频流合并。
-
+百度网盘：链接: https://pan.baidu.com/s/1vcIirgXVSTbv_ZNq12d4HQ?pwd=8888 提取码: 8888
 > 当前版本：`v1.3.2`
 
 ## 功能特性
